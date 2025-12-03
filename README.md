@@ -1,6 +1,4 @@
----
-
-## 📁 Dataset Description  
+# 📁 Dataset Description  
 **File:** `churn_data.csv`  
 The dataset includes synthetic telecom customer data:
 
